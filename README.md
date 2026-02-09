@@ -1,1 +1,1 @@
-# intro-to-prof
+# Project with LLM + RAG
